@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patelanuj28
 - 👀 I’m interested in non-repetative work. 
-- 🌱 I’m currently learning JAVA.
-- 💞️ I’m looking to collaborate on few sectors such as Security, Health and Cloud and come up with startup idea. 
+- 🌱 I’m currently learning JAVA and The InterPlanetary File System (IPFS). 
+- 💞️ I’m looking to collaborate on few sectors such as Distributed Web, Security, Health and Cloud and come up with startup idea. 
 - 📫 Reach out to me: patelanuj28 at gmail dot com. 
 
 <!---
