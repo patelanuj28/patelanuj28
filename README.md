@@ -17,7 +17,7 @@ I hold a **US Patent** in virtual machine lifecycle optimization:
 
 ### 🛠 Tech Stack
 
-**Languages:** Java · Ruby / Rails · Rust · Python · JavaScript · PHP · Perl · Bun
+**Languages:** Java · Ruby / Rails · Rust · Python · JavaScript · PHP · Perl · Bun  
 **Cloud:** AWS · Azure (AKS) · GCP · VMware vSphere  
 **Infrastructure:** Kubernetes · Docker · Kafka · Nginx · HAProxy  
 **Data:** PostgreSQL · MongoDB · MySQL · Redis · Oracle  
